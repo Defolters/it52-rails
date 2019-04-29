@@ -85,7 +85,7 @@ gem 'awesome_print'
 gem 'pry-rails'
 
 # Image and AWS S3 management
-gem 'fog-aws', '< 3'
+gem 'fog-aws', '< 4'
 gem 'mini_magick'
 gem 'carrierwave'
 gem 'asset_sync'
